@@ -1,9 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from "./Header";
+    import Main from "./Main";
+    
+    function App() {
+      return (
+      <>
+        <Header />
+        <Main />
+      </>
+ 
+    );
+};
 
-function App() {
-  return (
-    <div className="App">
+export default App;
+
+    
+
+
+/*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,8 +31,6 @@ function App() {
           Learn React
         </a>
       </header>
-    </div>
-  );
-}
-
-export default App;
+    </div>*/
+ 
+    

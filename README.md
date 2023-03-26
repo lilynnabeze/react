@@ -1,4 +1,60 @@
-# Getting Started with Create React App
+QUESTION 2:
+5 Features of React:
+
+-JavaScript Syntan Extension-JSX
+-Debugging
+-Unidirectional Data Flow
+-Virtual Document Object Model
+-Extensions
+
+
+QUESTION 3:
+5 Advantages of React:
+-ReactJs helps to create awesome UI
+
+-It creates its own virtual DOM
+
+-React can be used with other frameworks
+
+-ReactJs is SEO friendly
+
+-It is backed by a strong community
+
+
+QUESTION 4:
+React was created by Jordan Walke and is owned by Facebook
+
+
+QUESTION 5:
+3 Differences between HTML and JSX:
+
+-ClassName is now used to define HTML classes instead of class which is a reserved word in Javascript.
+
+-The naming convention for all HTML attributes and event references in JSX is camelCase as opposed to using lowercase all through.
+
+-All elements in JSX must be wrapped in one parent element for it to be transpiled which is not the case in HTML.
+
+-Any JSX element can be written with a self closing tag and every element must be closed unlike in HTML that only a few tags are self closing or not closed at all.
+
+
+QUESTION 6:
+Browsers can't read JSX because it is not valid JavaScript. A transpiler is needed to translate it to regular JavaScript that browsers understand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +123,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
