@@ -1,20 +1,16 @@
 import Header from "./Header";
-    import Main from "./Main";
-    
-    function App() {
-      return (
-      <>
-        <Header />
-        <Main />
-      </>
- 
-    );
+import Main from "./Main";
+
+const App = () => {
+  return (
+    <>
+      <Header />
+      <Main />
+    </>
+  );
 };
 
 export default App;
-
-    
-
 
 /*<div className="App">
       <header className="App-header">
@@ -32,5 +28,3 @@ export default App;
         </a>
       </header>
     </div>*/
- 
-    
